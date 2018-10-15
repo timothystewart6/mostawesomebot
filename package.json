@@ -1,0 +1,16 @@
+{
+  "name": "mostawesomebot",
+  "version": "0.0.0",
+  "description": "A Twitch Chatbot",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "TechnoTim",
+  "license": "ISC",
+  "dependencies": {
+    "node-emoji": "^1.8.1",
+    "tmi.js": "^1.2.1"
+  }
+}
