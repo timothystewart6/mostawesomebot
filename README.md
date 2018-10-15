@@ -1,6 +1,6 @@
 # MostAwesomeBot
 
-This is most awesome bot.  We built this live on twitch.
+This is most awesome bot.  We built this live on twitch. Be excellent to each other.
 
 See the [twitch clip](https://clips.twitch.tv/ThankfulCuteHamsterKevinTurtle) from event.
 
